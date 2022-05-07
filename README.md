@@ -1,6 +1,6 @@
-# Eve
+# ATmega32u4 Base Implementaion
 
-Tiny keyboard thing. Unsure of it's own purpose (yet)
+Forked during development of `eve-kb`.
 
 ## License
 
